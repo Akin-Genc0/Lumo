@@ -8,18 +8,6 @@ export default function Venues() {
         items={[
           { label: "Explore", link: "/", linkText: "Explore", icon: "compass" },
           {
-            label: "Spots",
-            link: "/games",
-            linkText: "Spots",
-            icon: "search",
-          },
-          {
-            label: "Map",
-            link: "/venues",
-            linkText: "Map",
-            icon: "map",
-          },
-          {
             label: "Saved",
             link: "/messages",
             linkText: "Saved",
