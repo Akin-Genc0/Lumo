@@ -13,7 +13,7 @@ export default function Home() {
           },
           {
             label: "Saved",
-            link: "/messages",
+            link: "/saved",
             linkText: "Saved",
             icon: "bookmark",
           },

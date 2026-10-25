@@ -9,7 +9,7 @@ export default function Profile() {
           { label: "Explore", link: "/", linkText: "Explore", icon: "compass" },
           {
             label: "Saved",
-            link: "/messages",
+            link: "/saved",
             linkText: "Saved",
             icon: "bookmark",
           },

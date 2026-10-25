@@ -1,7 +1,7 @@
 import { View } from "react-native";
 import NavBar from "../components/navbar";
 
-export default function Venues() {
+export default function Saved() {
   return (
     <View className="flex-1">
       <NavBar
@@ -9,7 +9,7 @@ export default function Venues() {
           { label: "Explore", link: "/", linkText: "Explore", icon: "compass" },
           {
             label: "Saved",
-            link: "/messages",
+            link: "/saved",
             linkText: "Saved",
             icon: "bookmark",
           },

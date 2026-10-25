@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "footy-app",
-    "slug": "footy-app",
+    "name": "Lumo",
+    "slug": "lumo",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
