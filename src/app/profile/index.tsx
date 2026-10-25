@@ -6,24 +6,24 @@ export default function Profile() {
     <View className="flex-1">
       <NavBar
         items={[
-          { label: "Home", link: "/", linkText: "Home", icon: "home" },
+          { label: "Explore", link: "/", linkText: "Explore", icon: "compass" },
           {
-            label: "Games",
+            label: "Spots",
             link: "/games",
-            linkText: "Games",
+            linkText: "Spots",
             icon: "search",
           },
           {
-            label: "Venues",
+            label: "Map",
             link: "/venues",
-            linkText: "Venues",
-            icon: "map-pin",
+            linkText: "Map",
+            icon: "map",
           },
           {
-            label: "Messages",
+            label: "Saved",
             link: "/messages",
-            linkText: "Messages",
-            icon: "message-circle",
+            linkText: "Saved",
+            icon: "bookmark",
           },
           {
             label: "Profile",
